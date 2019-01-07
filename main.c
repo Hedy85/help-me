@@ -3,6 +3,8 @@
 
 int main()
 {
-    printf("My name is Hedy.I don't remember why I chose this lesson at the beginine of this semester.");
+    printf("this is a to-do list of mine.");
+
+
     return 0;
 }
